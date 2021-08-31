@@ -1,8 +1,8 @@
 package OAuth;
 
-import Pojo.Api;
-import Pojo.GetCourse;
-import Pojo.WebAutomation;
+import Deserialization_Pojo.Api;
+import Deserialization_Pojo.GetCourse;
+import Deserialization_Pojo.WebAutomation;
 import io.restassured.parsing.Parser;
 import io.restassured.path.json.JsonPath;
 

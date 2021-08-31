@@ -1,4 +1,4 @@
-package Pojo;
+package Deserialization_Pojo;
 
 public class GetCourse {
 
